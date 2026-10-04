@@ -1,50 +1,23 @@
-# ══════════════════════════════════════════════════
-#  Jesmin Akther — Portfolio .gitignore
-# ══════════════════════════════════════════════════
-
-# ── SENSITIVE / LOCAL FILES ────────────────────────
-# GitHub access token — NEVER COMMIT
+# Security / Secrets
 settings.json
 .env
 .env.*
-.env.local
-.env.production
-
-# Private credentials
 *.pem
 *.key
-*.p12
 
-# ── TEMPORARY EXTRACTION DIRECTORY ────────────────
-_docx_extract/
-
-# ── NODE / NPM ─────────────────────────────────────
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-
-# ── BUILD OUTPUTS (for future framework use) ───────
-dist/
-build/
-.next/
-.nuxt/
-out/
-
-# ── OS / EDITOR ────────────────────────────────────
+# Editor / OS
 .DS_Store
 Thumbs.db
-desktop.ini
 .vscode/
 .idea/
-*.swp
-*.swo
-*~
 
-# ── LOGS ───────────────────────────────────────────
+# Source raw docs (already processed into assets/)
+Jesmin-Akther-Resume - Teaching.docx
+unnamed.jpg
+
+# Temporary / Build
+_docx_extract/
+node_modules/
+dist/
+build/
 *.log
-
-# ══════════════════════════════════════════════════
-# NOTE: index.html, assets/, .github/ ARE committed
-# ══════════════════════════════════════════════════
