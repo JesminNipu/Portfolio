@@ -4,7 +4,7 @@
 [![Live Site](https://img.shields.io/badge/Live_Portfolio-jesminnipu.github.io%2FPortfolio-blue.svg)](https://jesminnipu.github.io/Portfolio/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-> **Lecturer & Computer Science Researcher**  
+> **Mobile Application Developer and Researcher**  
 > Department of Computer Science and Engineering  
 > Specializing in **Deep Learning**, **Computer Vision**, and **AI for Precision Agriculture**
 
