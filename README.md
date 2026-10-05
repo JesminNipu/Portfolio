@@ -4,9 +4,9 @@
 [![Live Site](https://img.shields.io/badge/Live_Portfolio-jesminnipu.github.io%2FPortfolio-blue.svg)](https://jesminnipu.github.io/Portfolio/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-> **Prospective Ph.D. Researcher | Mobile Application Developer & AI Specialist**  
-> Department of Computer Science and Engineering  
-> Specializing in **Deep Learning**, **Computer Vision**, and **Edge-AI Deployable Systems**
+> **Mobile Application & Game Developer | Computer Science Researcher**  
+> Madlab · Former University Lecturer  
+> Specializing in **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Mobile Systems**
 
 🌐 **Live Website:** [https://jesminnipu.github.io/Portfolio/](https://jesminnipu.github.io/Portfolio/)
 
